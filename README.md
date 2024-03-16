@@ -1,5 +1,5 @@
 ### Hi there 👋
-# Visit https://github.com/lowlighter/metrics#-documentation for full reference
+
 
 <!--
 **Usman0Akhtar/Usman0Akhtar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
